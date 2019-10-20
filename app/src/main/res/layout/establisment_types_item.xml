@@ -74,7 +74,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:barrierDirection="left"
-            app:constraint_referenced_ids="cuisines_list_right_icon"
             tools:layout_editor_absoluteX="384dp" />
 
     </android.support.constraint.ConstraintLayout>
